@@ -1,7 +1,7 @@
 body {
-	background-color: rgb(50, 0, 170);
-	color: rgb(255, 255, 255);
-	font-size: 25px;
+	background-color: rgb(0, 0, 153);
+	color: black;
+	font-size: 40px;
 	text-align: center;
 }
 
@@ -15,9 +15,12 @@ div2 {
 h3 {
 	text-align: center;
 	color: rgb(255, 255, 255);
-	font-size: 30px;
+	font-size: 50px;
 	font-family: Courier New, Monospace;
 	text-decoration: underline;
 	font-weight: bold;
-
+	size: 100px;
+}
+textfield {
+	color: black;
 }
